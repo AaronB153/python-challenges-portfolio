@@ -54,5 +54,5 @@ def user_text():  #gather user input in this function
 
 
 if __name__ == "__main__":
-    print("\nHello, this program converts text to binary")
+    print("\nHello, this program converts text to Morse code.")
     user_text()
